@@ -1,0 +1,3458 @@
+[
+  {
+    "franchise": "Animal Crossing",
+    "title": "Animal Crossing",
+    "console": "GameCube",
+    "year": 2001,
+    "genre": "Simulation",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Animal Crossing",
+    "title": "Animal Crossing: Wild World",
+    "console": "Nintendo DS",
+    "year": 2005,
+    "genre": "Simulation",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Animal Crossing",
+    "title": "Animal Crossing: City Folk",
+    "console": "Wii",
+    "year": 2008,
+    "genre": "Simulation",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Animal Crossing",
+    "title": "Animal Crossing: New Leaf",
+    "console": "Nintendo 3DS",
+    "year": 2012,
+    "genre": "Simulation",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Animal Crossing",
+    "title": "Animal Crossing: New Horizons",
+    "console": "Nintendo Switch",
+    "year": 2020,
+    "genre": "Simulation",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Assassin’s Creed",
+    "title": "Assassin’s Creed",
+    "console": "PlayStation 3",
+    "year": 2007,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Assassin’s Creed",
+    "title": "Assassin’s Creed II",
+    "console": "PlayStation 3",
+    "year": 2009,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Assassin’s Creed",
+    "title": "Brotherhood",
+    "console": "PlayStation 3",
+    "year": 2010,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Assassin’s Creed",
+    "title": "Revelations",
+    "console": "PlayStation 3",
+    "year": 2011,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Assassin’s Creed",
+    "title": "Assassin’s Creed III",
+    "console": "PlayStation 3",
+    "year": 2012,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Assassin’s Creed",
+    "title": "Black Flag",
+    "console": "PlayStation 3",
+    "year": 2013,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Assassin’s Creed",
+    "title": "Unity",
+    "console": "PlayStation 4",
+    "year": 2014,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Assassin’s Creed",
+    "title": "Syndicate",
+    "console": "PlayStation 4",
+    "year": 2015,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Assassin’s Creed",
+    "title": "Origins",
+    "console": "PlayStation 4",
+    "year": 2017,
+    "genre": "Action-RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Assassin’s Creed",
+    "title": "Odyssey",
+    "console": "PlayStation 4",
+    "year": 2018,
+    "genre": "Action-RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Assassin’s Creed",
+    "title": "Valhalla",
+    "console": "PlayStation 4",
+    "year": 2020,
+    "genre": "Action-RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Assassin’s Creed",
+    "title": "Mirage",
+    "console": "PlayStation 5",
+    "year": 2023,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Assassin’s Creed",
+    "title": "Shadows",
+    "console": "PlayStation 5",
+    "year": 2025,
+    "genre": "Action-RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Battlefield",
+    "title": "Battlefield 1942",
+    "console": "PC / Windows",
+    "year": 2002,
+    "genre": "FPS",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Battlefield",
+    "title": "Battlefield 2",
+    "console": "PC / Windows",
+    "year": 2005,
+    "genre": "FPS",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Battlefield",
+    "title": "Battlefield: Bad Company 2",
+    "console": "PlayStation 3",
+    "year": 2010,
+    "genre": "FPS",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Battlefield",
+    "title": "Battlefield 3",
+    "console": "PlayStation 3",
+    "year": 2011,
+    "genre": "FPS",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Battlefield",
+    "title": "Battlefield 4",
+    "console": "PlayStation 4",
+    "year": 2013,
+    "genre": "FPS",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Battlefield",
+    "title": "Battlefield 1",
+    "console": "PlayStation 4",
+    "year": 2016,
+    "genre": "FPS",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Battlefield",
+    "title": "Battlefield V",
+    "console": "PlayStation 4",
+    "year": 2018,
+    "genre": "FPS",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Battlefield",
+    "title": "Battlefield 2042",
+    "console": "PlayStation 5",
+    "year": 2021,
+    "genre": "FPS",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "BioShock",
+    "title": "BioShock",
+    "console": "Xbox 360",
+    "year": 2007,
+    "genre": "FPS",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "BioShock",
+    "title": "BioShock 2",
+    "console": "Xbox 360",
+    "year": 2010,
+    "genre": "FPS",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "BioShock",
+    "title": "BioShock Infinite",
+    "console": "PlayStation 3",
+    "year": 2013,
+    "genre": "FPS",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Borderlands",
+    "title": "Borderlands",
+    "console": "PlayStation 3",
+    "year": 2009,
+    "genre": "Looter-shooter",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Borderlands",
+    "title": "Borderlands 2",
+    "console": "PlayStation 3",
+    "year": 2012,
+    "genre": "Looter-shooter",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Borderlands",
+    "title": "Borderlands: The Pre-Sequel",
+    "console": "PlayStation 3",
+    "year": 2014,
+    "genre": "Looter-shooter",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Borderlands",
+    "title": "Borderlands 3",
+    "console": "PlayStation 4",
+    "year": 2019,
+    "genre": "Looter-shooter",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Borderlands",
+    "title": "Tiny Tina’s Wonderlands",
+    "console": "PlayStation 5",
+    "year": 2022,
+    "genre": "Looter-shooter",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Borderlands",
+    "title": "Borderlands 4",
+    "console": "PlayStation 5",
+    "year": 2025,
+    "genre": "Looter-shooter",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Call of Duty",
+    "title": "Call of Duty",
+    "console": "PlayStation 2",
+    "year": 2003,
+    "genre": "FPS",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Call of Duty",
+    "title": "Call of Duty 2",
+    "console": "Xbox 360",
+    "year": 2005,
+    "genre": "FPS",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Call of Duty",
+    "title": "Call of Duty 4: Modern Warfare",
+    "console": "PlayStation 3",
+    "year": 2007,
+    "genre": "FPS",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Call of Duty",
+    "title": "World at War",
+    "console": "PlayStation 3",
+    "year": 2008,
+    "genre": "FPS",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Call of Duty",
+    "title": "Modern Warfare 2",
+    "console": "PlayStation 3",
+    "year": 2009,
+    "genre": "FPS",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Call of Duty",
+    "title": "Black Ops",
+    "console": "PlayStation 3",
+    "year": 2010,
+    "genre": "FPS",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Call of Duty",
+    "title": "Black Ops II",
+    "console": "PlayStation 3",
+    "year": 2012,
+    "genre": "FPS",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Call of Duty",
+    "title": "Modern Warfare (2019)",
+    "console": "PlayStation 4",
+    "year": 2019,
+    "genre": "FPS",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Call of Duty",
+    "title": "Black Ops Cold War",
+    "console": "PlayStation 4",
+    "year": 2020,
+    "genre": "FPS",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Call of Duty",
+    "title": "Modern Warfare II (2022)",
+    "console": "PlayStation 5",
+    "year": 2022,
+    "genre": "FPS",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Call of Duty",
+    "title": "Black Ops 6",
+    "console": "PlayStation 5",
+    "year": 2024,
+    "genre": "FPS",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Castlevania",
+    "title": "Castlevania",
+    "console": "NES / Famicom",
+    "year": 1986,
+    "genre": "Action-plateforme",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Castlevania",
+    "title": "Castlevania II: Simon’s Quest",
+    "console": "NES / Famicom",
+    "year": 1987,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Castlevania",
+    "title": "Super Castlevania IV",
+    "console": "SNES / Super Famicom",
+    "year": 1991,
+    "genre": "Action-plateforme",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Castlevania",
+    "title": "Rondo of Blood",
+    "console": "PC Engine CD",
+    "year": 1993,
+    "genre": "Action-plateforme",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Castlevania",
+    "title": "Symphony of the Night",
+    "console": "PlayStation",
+    "year": 1997,
+    "genre": "Metroidvania",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Castlevania",
+    "title": "Aria of Sorrow",
+    "console": "Game Boy Advance",
+    "year": 2003,
+    "genre": "Metroidvania",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Castlevania",
+    "title": "Dawn of Sorrow",
+    "console": "Nintendo DS",
+    "year": 2005,
+    "genre": "Metroidvania",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Castlevania",
+    "title": "Order of Ecclesia",
+    "console": "Nintendo DS",
+    "year": 2008,
+    "genre": "Metroidvania",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Crash Bandicoot",
+    "title": "Crash Bandicoot",
+    "console": "PlayStation",
+    "year": 1996,
+    "genre": "Plateforme",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Crash Bandicoot",
+    "title": "Crash Bandicoot 2: Cortex Strikes Back",
+    "console": "PlayStation",
+    "year": 1997,
+    "genre": "Plateforme",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Crash Bandicoot",
+    "title": "Crash Bandicoot: Warped",
+    "console": "PlayStation",
+    "year": 1998,
+    "genre": "Plateforme",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Crash Bandicoot",
+    "title": "Crash Team Racing",
+    "console": "PlayStation",
+    "year": 1999,
+    "genre": "Course",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Crash Bandicoot",
+    "title": "The Wrath of Cortex",
+    "console": "PlayStation 2",
+    "year": 2001,
+    "genre": "Plateforme",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Crash Bandicoot",
+    "title": "Crash Twinsanity",
+    "console": "PlayStation 2",
+    "year": 2004,
+    "genre": "Plateforme",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Crash Bandicoot",
+    "title": "Crash Bandicoot 4: It’s About Time",
+    "console": "PlayStation 4",
+    "year": 2020,
+    "genre": "Plateforme",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Dark Souls",
+    "title": "Demon’s Souls",
+    "console": "PlayStation 3",
+    "year": 2009,
+    "genre": "Action-RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Dark Souls",
+    "title": "Dark Souls",
+    "console": "PlayStation 3",
+    "year": 2011,
+    "genre": "Action-RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Dark Souls",
+    "title": "Dark Souls II",
+    "console": "PlayStation 3",
+    "year": 2014,
+    "genre": "Action-RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Dark Souls",
+    "title": "Bloodborne",
+    "console": "PlayStation 4",
+    "year": 2015,
+    "genre": "Action-RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Dark Souls",
+    "title": "Dark Souls III",
+    "console": "PlayStation 4",
+    "year": 2016,
+    "genre": "Action-RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Dark Souls",
+    "title": "Elden Ring",
+    "console": "PlayStation 5",
+    "year": 2022,
+    "genre": "Action-RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Devil May Cry",
+    "title": "Devil May Cry",
+    "console": "PlayStation 2",
+    "year": 2001,
+    "genre": "Action",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Devil May Cry",
+    "title": "Devil May Cry 2",
+    "console": "PlayStation 2",
+    "year": 2003,
+    "genre": "Action",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Devil May Cry",
+    "title": "Devil May Cry 3",
+    "console": "PlayStation 2",
+    "year": 2005,
+    "genre": "Action",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Devil May Cry",
+    "title": "Devil May Cry 4",
+    "console": "PlayStation 3",
+    "year": 2008,
+    "genre": "Action",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Devil May Cry",
+    "title": "DmC: Devil May Cry",
+    "console": "PlayStation 3",
+    "year": 2013,
+    "genre": "Action",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Devil May Cry",
+    "title": "Devil May Cry 5",
+    "console": "PlayStation 4",
+    "year": 2019,
+    "genre": "Action",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Diablo",
+    "title": "Diablo",
+    "console": "PC / Windows",
+    "year": 1996,
+    "genre": "Action-RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Diablo",
+    "title": "Diablo II",
+    "console": "PC / Windows",
+    "year": 2000,
+    "genre": "Action-RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Diablo",
+    "title": "Diablo III",
+    "console": "PlayStation 3",
+    "year": 2012,
+    "genre": "Action-RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Diablo",
+    "title": "Diablo IV",
+    "console": "PlayStation 5",
+    "year": 2023,
+    "genre": "Action-RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Donkey Kong",
+    "title": "Donkey Kong",
+    "console": "NES / Famicom",
+    "year": 1983,
+    "genre": "Arcade",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Donkey Kong",
+    "title": "Donkey Kong Country",
+    "console": "SNES / Super Famicom",
+    "year": 1994,
+    "genre": "Plateforme",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Donkey Kong",
+    "title": "Donkey Kong Country 2",
+    "console": "SNES / Super Famicom",
+    "year": 1995,
+    "genre": "Plateforme",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Donkey Kong",
+    "title": "Donkey Kong Country 3",
+    "console": "SNES / Super Famicom",
+    "year": 1996,
+    "genre": "Plateforme",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Donkey Kong",
+    "title": "Donkey Kong 64",
+    "console": "Nintendo 64",
+    "year": 1999,
+    "genre": "Plateforme",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Donkey Kong",
+    "title": "Donkey Kong Country Returns",
+    "console": "Wii",
+    "year": 2010,
+    "genre": "Plateforme",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Donkey Kong",
+    "title": "Donkey Kong Country: Tropical Freeze",
+    "console": "Wii U",
+    "year": 2014,
+    "genre": "Plateforme",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "DOOM",
+    "title": "Doom",
+    "console": "DOS / PC rétro",
+    "year": 1993,
+    "genre": "FPS",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "DOOM",
+    "title": "Doom II",
+    "console": "DOS / PC rétro",
+    "year": 1994,
+    "genre": "FPS",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "DOOM",
+    "title": "Doom 3",
+    "console": "Xbox",
+    "year": 2004,
+    "genre": "FPS",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "DOOM",
+    "title": "Doom (2016)",
+    "console": "PlayStation 4",
+    "year": 2016,
+    "genre": "FPS",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "DOOM",
+    "title": "Doom Eternal",
+    "console": "PlayStation 4",
+    "year": 2020,
+    "genre": "FPS",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Dragon Quest",
+    "title": "Dragon Quest",
+    "console": "NES / Famicom",
+    "year": 1986,
+    "genre": "JRPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Dragon Quest",
+    "title": "Dragon Quest II",
+    "console": "NES / Famicom",
+    "year": 1987,
+    "genre": "JRPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Dragon Quest",
+    "title": "Dragon Quest III",
+    "console": "NES / Famicom",
+    "year": 1988,
+    "genre": "JRPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Dragon Quest",
+    "title": "Dragon Quest IV",
+    "console": "NES / Famicom",
+    "year": 1990,
+    "genre": "JRPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Dragon Quest",
+    "title": "Dragon Quest V",
+    "console": "SNES / Super Famicom",
+    "year": 1992,
+    "genre": "JRPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Dragon Quest",
+    "title": "Dragon Quest VI",
+    "console": "SNES / Super Famicom",
+    "year": 1995,
+    "genre": "JRPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Dragon Quest",
+    "title": "Dragon Quest VII",
+    "console": "PlayStation",
+    "year": 2000,
+    "genre": "JRPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Dragon Quest",
+    "title": "Dragon Quest VIII",
+    "console": "PlayStation 2",
+    "year": 2004,
+    "genre": "JRPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Dragon Quest",
+    "title": "Dragon Quest IX",
+    "console": "Nintendo DS",
+    "year": 2009,
+    "genre": "JRPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Dragon Quest",
+    "title": "Dragon Quest Builders",
+    "console": "PlayStation 4",
+    "year": 2016,
+    "genre": "Aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Dragon Quest",
+    "title": "Dragon Quest XI",
+    "console": "PlayStation 4",
+    "year": 2017,
+    "genre": "JRPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Dragon Quest",
+    "title": "Dragon Quest Builders 2",
+    "console": "Nintendo Switch",
+    "year": 2018,
+    "genre": "Aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Fallout",
+    "title": "Fallout",
+    "console": "DOS / PC rétro",
+    "year": 1997,
+    "genre": "RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Fallout",
+    "title": "Fallout 2",
+    "console": "DOS / PC rétro",
+    "year": 1998,
+    "genre": "RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Fallout",
+    "title": "Fallout 3",
+    "console": "Xbox 360",
+    "year": 2008,
+    "genre": "RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Fallout",
+    "title": "Fallout: New Vegas",
+    "console": "Xbox 360",
+    "year": 2010,
+    "genre": "RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Fallout",
+    "title": "Fallout 4",
+    "console": "PlayStation 4",
+    "year": 2015,
+    "genre": "RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Fallout",
+    "title": "Fallout 76",
+    "console": "PlayStation 4",
+    "year": 2018,
+    "genre": "RPG en ligne",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Far Cry",
+    "title": "Far Cry",
+    "console": "PC / Windows",
+    "year": 2004,
+    "genre": "FPS",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Far Cry",
+    "title": "Far Cry 2",
+    "console": "PlayStation 3",
+    "year": 2008,
+    "genre": "FPS",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Far Cry",
+    "title": "Far Cry 3",
+    "console": "PlayStation 3",
+    "year": 2012,
+    "genre": "FPS",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Far Cry",
+    "title": "Far Cry 4",
+    "console": "PlayStation 4",
+    "year": 2014,
+    "genre": "FPS",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Far Cry",
+    "title": "Far Cry 5",
+    "console": "PlayStation 4",
+    "year": 2018,
+    "genre": "FPS",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Far Cry",
+    "title": "Far Cry 6",
+    "console": "PlayStation 5",
+    "year": 2021,
+    "genre": "FPS",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Final Fantasy",
+    "title": "Final Fantasy",
+    "console": "NES / Famicom",
+    "year": 1987,
+    "genre": "JRPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Final Fantasy",
+    "title": "Final Fantasy II",
+    "console": "NES / Famicom",
+    "year": 1988,
+    "genre": "JRPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Final Fantasy",
+    "title": "Final Fantasy III",
+    "console": "NES / Famicom",
+    "year": 1990,
+    "genre": "JRPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Final Fantasy",
+    "title": "Final Fantasy IV",
+    "console": "SNES / Super Famicom",
+    "year": 1991,
+    "genre": "JRPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Final Fantasy",
+    "title": "Final Fantasy V",
+    "console": "SNES / Super Famicom",
+    "year": 1992,
+    "genre": "JRPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Final Fantasy",
+    "title": "Final Fantasy VI",
+    "console": "SNES / Super Famicom",
+    "year": 1994,
+    "genre": "JRPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Final Fantasy",
+    "title": "Final Fantasy VII",
+    "console": "PlayStation",
+    "year": 1997,
+    "genre": "JRPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Final Fantasy",
+    "title": "Final Fantasy VIII",
+    "console": "PlayStation",
+    "year": 1999,
+    "genre": "JRPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Final Fantasy",
+    "title": "Final Fantasy IX",
+    "console": "PlayStation",
+    "year": 2000,
+    "genre": "JRPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Final Fantasy",
+    "title": "Final Fantasy X",
+    "console": "PlayStation 2",
+    "year": 2001,
+    "genre": "JRPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Final Fantasy",
+    "title": "Final Fantasy XII",
+    "console": "PlayStation 2",
+    "year": 2006,
+    "genre": "JRPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Final Fantasy",
+    "title": "Final Fantasy XIII",
+    "console": "PlayStation 3",
+    "year": 2009,
+    "genre": "JRPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Final Fantasy",
+    "title": "Final Fantasy XV",
+    "console": "PlayStation 4",
+    "year": 2016,
+    "genre": "Action RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Final Fantasy",
+    "title": "Final Fantasy XVI",
+    "console": "PlayStation 5",
+    "year": 2023,
+    "genre": "Action RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Fire Emblem",
+    "title": "Fire Emblem: Shadow Dragon and the Blade of Light",
+    "console": "NES / Famicom",
+    "year": 1990,
+    "genre": "T-RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Fire Emblem",
+    "title": "Fire Emblem: Genealogy of the Holy War",
+    "console": "SNES / Super Famicom",
+    "year": 1996,
+    "genre": "T-RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Fire Emblem",
+    "title": "The Binding Blade",
+    "console": "Game Boy Advance",
+    "year": 2002,
+    "genre": "T-RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Fire Emblem",
+    "title": "The Blazing Blade",
+    "console": "Game Boy Advance",
+    "year": 2003,
+    "genre": "T-RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Fire Emblem",
+    "title": "The Sacred Stones",
+    "console": "Game Boy Advance",
+    "year": 2004,
+    "genre": "T-RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Fire Emblem",
+    "title": "Path of Radiance",
+    "console": "GameCube",
+    "year": 2005,
+    "genre": "T-RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Fire Emblem",
+    "title": "Radiant Dawn",
+    "console": "Wii",
+    "year": 2007,
+    "genre": "T-RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Fire Emblem",
+    "title": "Awakening",
+    "console": "Nintendo 3DS",
+    "year": 2012,
+    "genre": "T-RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Fire Emblem",
+    "title": "Fates",
+    "console": "Nintendo 3DS",
+    "year": 2015,
+    "genre": "T-RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Fire Emblem",
+    "title": "Three Houses",
+    "console": "Nintendo Switch",
+    "year": 2019,
+    "genre": "T-RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Fire Emblem",
+    "title": "Engage",
+    "console": "Nintendo Switch",
+    "year": 2023,
+    "genre": "T-RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Forza",
+    "title": "Forza Motorsport",
+    "console": "Xbox",
+    "year": 2005,
+    "genre": "Course",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Forza",
+    "title": "Forza Motorsport 2",
+    "console": "Xbox 360",
+    "year": 2007,
+    "genre": "Course",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Forza",
+    "title": "Forza Motorsport 3",
+    "console": "Xbox 360",
+    "year": 2009,
+    "genre": "Course",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Forza",
+    "title": "Forza Motorsport 4",
+    "console": "Xbox 360",
+    "year": 2011,
+    "genre": "Course",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Forza",
+    "title": "Forza Horizon",
+    "console": "Xbox 360",
+    "year": 2012,
+    "genre": "Course",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Forza",
+    "title": "Forza Horizon 2",
+    "console": "Xbox One",
+    "year": 2014,
+    "genre": "Course",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Forza",
+    "title": "Forza Motorsport 6",
+    "console": "Xbox One",
+    "year": 2015,
+    "genre": "Course",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Forza",
+    "title": "Forza Horizon 3",
+    "console": "Xbox One",
+    "year": 2016,
+    "genre": "Course",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Forza",
+    "title": "Forza Motorsport 7",
+    "console": "Xbox One",
+    "year": 2017,
+    "genre": "Course",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Forza",
+    "title": "Forza Horizon 4",
+    "console": "Xbox One",
+    "year": 2018,
+    "genre": "Course",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Forza",
+    "title": "Forza Horizon 5",
+    "console": "Xbox Series X|S",
+    "year": 2021,
+    "genre": "Course",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Forza",
+    "title": "Forza Motorsport (2023)",
+    "console": "Xbox Series X|S",
+    "year": 2023,
+    "genre": "Course",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "God of War",
+    "title": "God of War",
+    "console": "PlayStation 2",
+    "year": 2005,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "God of War",
+    "title": "God of War II",
+    "console": "PlayStation 2",
+    "year": 2007,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "God of War",
+    "title": "God of War: Chains of Olympus",
+    "console": "PSP",
+    "year": 2008,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "God of War",
+    "title": "God of War III",
+    "console": "PlayStation 3",
+    "year": 2010,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "God of War",
+    "title": "God of War: Ghost of Sparta",
+    "console": "PSP",
+    "year": 2010,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "God of War",
+    "title": "God of War (2018)",
+    "console": "PlayStation 4",
+    "year": 2018,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "God of War",
+    "title": "God of War Ragnarök",
+    "console": "PlayStation 5",
+    "year": 2022,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Gran Turismo",
+    "title": "Gran Turismo",
+    "console": "PlayStation",
+    "year": 1997,
+    "genre": "Course",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Gran Turismo",
+    "title": "Gran Turismo 2",
+    "console": "PlayStation",
+    "year": 1999,
+    "genre": "Course",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Gran Turismo",
+    "title": "Gran Turismo 3: A-Spec",
+    "console": "PlayStation 2",
+    "year": 2001,
+    "genre": "Course",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Gran Turismo",
+    "title": "Gran Turismo 4",
+    "console": "PlayStation 2",
+    "year": 2004,
+    "genre": "Course",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Gran Turismo",
+    "title": "Gran Turismo 5",
+    "console": "PlayStation 3",
+    "year": 2010,
+    "genre": "Course",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Gran Turismo",
+    "title": "Gran Turismo 6",
+    "console": "PlayStation 3",
+    "year": 2013,
+    "genre": "Course",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Gran Turismo",
+    "title": "Gran Turismo Sport",
+    "console": "PlayStation 4",
+    "year": 2017,
+    "genre": "Course",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Gran Turismo",
+    "title": "Gran Turismo 7",
+    "console": "PlayStation 5",
+    "year": 2022,
+    "genre": "Course",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Grand Theft Auto",
+    "title": "Grand Theft Auto",
+    "console": "PlayStation",
+    "year": 1997,
+    "genre": "Action",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Grand Theft Auto",
+    "title": "Grand Theft Auto 2",
+    "console": "PlayStation",
+    "year": 1999,
+    "genre": "Action",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Grand Theft Auto",
+    "title": "Grand Theft Auto III",
+    "console": "PlayStation 2",
+    "year": 2001,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Grand Theft Auto",
+    "title": "Vice City",
+    "console": "PlayStation 2",
+    "year": 2002,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Grand Theft Auto",
+    "title": "San Andreas",
+    "console": "PlayStation 2",
+    "year": 2004,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Grand Theft Auto",
+    "title": "Liberty City Stories",
+    "console": "PSP",
+    "year": 2005,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Grand Theft Auto",
+    "title": "Vice City Stories",
+    "console": "PSP",
+    "year": 2006,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Grand Theft Auto",
+    "title": "Grand Theft Auto IV",
+    "console": "PlayStation 3",
+    "year": 2008,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Grand Theft Auto",
+    "title": "Grand Theft Auto V",
+    "console": "PlayStation 3",
+    "year": 2013,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Grand Theft Auto",
+    "title": "Grand Theft Auto VI",
+    "console": "PlayStation 5",
+    "year": 2026,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Halo",
+    "title": "Halo: Combat Evolved",
+    "console": "Xbox",
+    "year": 2001,
+    "genre": "FPS",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Halo",
+    "title": "Halo 2",
+    "console": "Xbox",
+    "year": 2004,
+    "genre": "FPS",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Halo",
+    "title": "Halo 3",
+    "console": "Xbox 360",
+    "year": 2007,
+    "genre": "FPS",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Halo",
+    "title": "Halo 3: ODST",
+    "console": "Xbox 360",
+    "year": 2009,
+    "genre": "FPS",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Halo",
+    "title": "Halo: Reach",
+    "console": "Xbox 360",
+    "year": 2010,
+    "genre": "FPS",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Halo",
+    "title": "Halo 4",
+    "console": "Xbox 360",
+    "year": 2012,
+    "genre": "FPS",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Halo",
+    "title": "Halo 5: Guardians",
+    "console": "Xbox One",
+    "year": 2015,
+    "genre": "FPS",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Halo",
+    "title": "Halo Infinite",
+    "console": "Xbox Series X|S",
+    "year": 2021,
+    "genre": "FPS",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Kingdom Hearts",
+    "title": "Kingdom Hearts",
+    "console": "PlayStation 2",
+    "year": 2002,
+    "genre": "Action-RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Kingdom Hearts",
+    "title": "Chain of Memories",
+    "console": "Game Boy Advance",
+    "year": 2004,
+    "genre": "Action-RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Kingdom Hearts",
+    "title": "Kingdom Hearts II",
+    "console": "PlayStation 2",
+    "year": 2005,
+    "genre": "Action-RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Kingdom Hearts",
+    "title": "358/2 Days",
+    "console": "Nintendo DS",
+    "year": 2009,
+    "genre": "Action-RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Kingdom Hearts",
+    "title": "Birth by Sleep",
+    "console": "PSP",
+    "year": 2010,
+    "genre": "Action-RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Kingdom Hearts",
+    "title": "Dream Drop Distance",
+    "console": "Nintendo 3DS",
+    "year": 2012,
+    "genre": "Action-RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Kingdom Hearts",
+    "title": "Kingdom Hearts III",
+    "console": "PlayStation 4",
+    "year": 2019,
+    "genre": "Action-RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Kirby",
+    "title": "Kirby’s Dream Land",
+    "console": "Game Boy",
+    "year": 1992,
+    "genre": "Plateforme",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Kirby",
+    "title": "Kirby’s Adventure",
+    "console": "NES / Famicom",
+    "year": 1993,
+    "genre": "Plateforme",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Kirby",
+    "title": "Kirby Super Star",
+    "console": "SNES / Super Famicom",
+    "year": 1996,
+    "genre": "Plateforme",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Kirby",
+    "title": "Kirby 64: The Crystal Shards",
+    "console": "Nintendo 64",
+    "year": 2000,
+    "genre": "Plateforme",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Kirby",
+    "title": "Kirby & the Amazing Mirror",
+    "console": "Game Boy Advance",
+    "year": 2004,
+    "genre": "Plateforme",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Kirby",
+    "title": "Kirby: Squeak Squad",
+    "console": "Nintendo DS",
+    "year": 2006,
+    "genre": "Plateforme",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Kirby",
+    "title": "Kirby’s Epic Yarn",
+    "console": "Wii",
+    "year": 2010,
+    "genre": "Plateforme",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Kirby",
+    "title": "Kirby: Triple Deluxe",
+    "console": "Nintendo 3DS",
+    "year": 2014,
+    "genre": "Plateforme",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Kirby",
+    "title": "Kirby: Planet Robobot",
+    "console": "Nintendo 3DS",
+    "year": 2016,
+    "genre": "Plateforme",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Kirby",
+    "title": "Kirby Star Allies",
+    "console": "Nintendo Switch",
+    "year": 2018,
+    "genre": "Plateforme",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Kirby",
+    "title": "Kirby and the Forgotten Land",
+    "console": "Nintendo Switch",
+    "year": 2022,
+    "genre": "Plateforme",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Mario",
+    "title": "Super Mario Bros.",
+    "console": "NES / Famicom",
+    "year": 1985,
+    "genre": "Plateforme",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Mario",
+    "title": "Super Mario Bros. 2",
+    "console": "NES / Famicom",
+    "year": 1988,
+    "genre": "Plateforme",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Mario",
+    "title": "Super Mario Bros. 3",
+    "console": "NES / Famicom",
+    "year": 1988,
+    "genre": "Plateforme",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Mario",
+    "title": "Super Mario World",
+    "console": "SNES / Super Famicom",
+    "year": 1990,
+    "genre": "Plateforme",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Mario",
+    "title": "Mario Kart 64",
+    "console": "Nintendo 64",
+    "year": 1996,
+    "genre": "Course",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Mario",
+    "title": "Super Mario 64",
+    "console": "Nintendo 64",
+    "year": 1996,
+    "genre": "Plateforme 3D",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Mario",
+    "title": "Mario Party",
+    "console": "Nintendo 64",
+    "year": 1998,
+    "genre": "Party",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Mario",
+    "title": "Mario Party 2",
+    "console": "Nintendo 64",
+    "year": 1999,
+    "genre": "Party",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Mario",
+    "title": "Mario Party 3",
+    "console": "Nintendo 64",
+    "year": 2000,
+    "genre": "Party",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Mario",
+    "title": "Paper Mario",
+    "console": "Nintendo 64",
+    "year": 2000,
+    "genre": "RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Mario",
+    "title": "Luigi's Mansion",
+    "console": "GameCube",
+    "year": 2001,
+    "genre": "Aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Mario",
+    "title": "Super Mario Sunshine",
+    "console": "GameCube",
+    "year": 2002,
+    "genre": "Plateforme 3D",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Mario",
+    "title": "Mario & Luigi: Superstar Saga",
+    "console": "Game Boy Advance",
+    "year": 2003,
+    "genre": "RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Mario",
+    "title": "Mario Kart: Double Dash!!",
+    "console": "GameCube",
+    "year": 2003,
+    "genre": "Course",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Mario",
+    "title": "Paper Mario: The Thousand-Year Door",
+    "console": "GameCube",
+    "year": 2004,
+    "genre": "RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Mario",
+    "title": "Mario Kart DS",
+    "console": "Nintendo DS",
+    "year": 2005,
+    "genre": "Course",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Mario",
+    "title": "New Super Mario Bros.",
+    "console": "Nintendo DS",
+    "year": 2006,
+    "genre": "Plateforme",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Mario",
+    "title": "Super Mario Galaxy",
+    "console": "Wii",
+    "year": 2007,
+    "genre": "Plateforme 3D",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Mario",
+    "title": "Mario Kart Wii",
+    "console": "Wii",
+    "year": 2008,
+    "genre": "Course",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Mario",
+    "title": "New Super Mario Bros. Wii",
+    "console": "Wii",
+    "year": 2009,
+    "genre": "Plateforme",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Mario",
+    "title": "Super Mario Galaxy 2",
+    "console": "Wii",
+    "year": 2010,
+    "genre": "Plateforme 3D",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Mario",
+    "title": "Mario Kart 7",
+    "console": "Nintendo 3DS",
+    "year": 2011,
+    "genre": "Course",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Mario",
+    "title": "New Super Mario Bros. 2",
+    "console": "Nintendo 3DS",
+    "year": 2012,
+    "genre": "Plateforme",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Mario",
+    "title": "New Super Mario Bros. U",
+    "console": "Wii U",
+    "year": 2012,
+    "genre": "Plateforme",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Mario",
+    "title": "Super Mario 3D World",
+    "console": "Wii U",
+    "year": 2013,
+    "genre": "Plateforme 3D",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Mario",
+    "title": "Mario Kart 8",
+    "console": "Wii U",
+    "year": 2014,
+    "genre": "Course",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Mario",
+    "title": "Mario Kart 8 Deluxe",
+    "console": "Nintendo Switch",
+    "year": 2017,
+    "genre": "Course",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Mario",
+    "title": "Super Mario Odyssey",
+    "console": "Nintendo Switch",
+    "year": 2017,
+    "genre": "Plateforme 3D",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Mario",
+    "title": "Super Mario Party",
+    "console": "Nintendo Switch",
+    "year": 2018,
+    "genre": "Party",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Mario",
+    "title": "Luigi's Mansion 3",
+    "console": "Nintendo Switch",
+    "year": 2019,
+    "genre": "Aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Mario",
+    "title": "Mario Party Superstars",
+    "console": "Nintendo Switch",
+    "year": 2021,
+    "genre": "Party",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Mario",
+    "title": "Super Mario Bros. Wonder",
+    "console": "Nintendo Switch",
+    "year": 2023,
+    "genre": "Plateforme",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Mega Man",
+    "title": "Mega Man",
+    "console": "NES / Famicom",
+    "year": 1987,
+    "genre": "Action-plateforme",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Mega Man",
+    "title": "Mega Man 2",
+    "console": "NES / Famicom",
+    "year": 1988,
+    "genre": "Action-plateforme",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Mega Man",
+    "title": "Mega Man 3",
+    "console": "NES / Famicom",
+    "year": 1990,
+    "genre": "Action-plateforme",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Mega Man",
+    "title": "Mega Man X",
+    "console": "SNES / Super Famicom",
+    "year": 1993,
+    "genre": "Action-plateforme",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Mega Man",
+    "title": "Mega Man X2",
+    "console": "SNES / Super Famicom",
+    "year": 1994,
+    "genre": "Action-plateforme",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Mega Man",
+    "title": "Mega Man Legends",
+    "console": "PlayStation",
+    "year": 1997,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Mega Man",
+    "title": "Mega Man Battle Network",
+    "console": "Game Boy Advance",
+    "year": 2001,
+    "genre": "RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Mega Man",
+    "title": "Mega Man Zero",
+    "console": "Game Boy Advance",
+    "year": 2002,
+    "genre": "Action-plateforme",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Mega Man",
+    "title": "Mega Man 11",
+    "console": "Nintendo Switch",
+    "year": 2018,
+    "genre": "Action-plateforme",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Metal Gear",
+    "title": "Metal Gear",
+    "console": "MSX2",
+    "year": 1987,
+    "genre": "Infiltration",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Metal Gear",
+    "title": "Metal Gear 2: Solid Snake",
+    "console": "MSX2",
+    "year": 1990,
+    "genre": "Infiltration",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Metal Gear",
+    "title": "Metal Gear Solid",
+    "console": "PlayStation",
+    "year": 1998,
+    "genre": "Infiltration",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Metal Gear",
+    "title": "Metal Gear Solid 2: Sons of Liberty",
+    "console": "PlayStation 2",
+    "year": 2001,
+    "genre": "Infiltration",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Metal Gear",
+    "title": "Metal Gear Solid 3: Snake Eater",
+    "console": "PlayStation 2",
+    "year": 2004,
+    "genre": "Infiltration",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Metal Gear",
+    "title": "Metal Gear Solid 4: Guns of the Patriots",
+    "console": "PlayStation 3",
+    "year": 2008,
+    "genre": "Infiltration",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Metal Gear",
+    "title": "Metal Gear Solid: Peace Walker",
+    "console": "PSP",
+    "year": 2010,
+    "genre": "Infiltration",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Metal Gear",
+    "title": "Metal Gear Solid V: The Phantom Pain",
+    "console": "PlayStation 4",
+    "year": 2015,
+    "genre": "Infiltration",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Metroid",
+    "title": "Metroid",
+    "console": "NES / Famicom",
+    "year": 1986,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Metroid",
+    "title": "Metroid II: Return of Samus",
+    "console": "Game Boy",
+    "year": 1991,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Metroid",
+    "title": "Super Metroid",
+    "console": "SNES / Super Famicom",
+    "year": 1994,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Metroid",
+    "title": "Metroid Fusion",
+    "console": "Game Boy Advance",
+    "year": 2002,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Metroid",
+    "title": "Metroid Prime",
+    "console": "GameCube",
+    "year": 2002,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Metroid",
+    "title": "Metroid Prime 2: Echoes",
+    "console": "GameCube",
+    "year": 2004,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Metroid",
+    "title": "Metroid: Zero Mission",
+    "console": "Game Boy Advance",
+    "year": 2004,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Metroid",
+    "title": "Metroid Prime 3: Corruption",
+    "console": "Wii",
+    "year": 2007,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Metroid",
+    "title": "Metroid: Samus Returns",
+    "console": "Nintendo 3DS",
+    "year": 2017,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Metroid",
+    "title": "Metroid Dread",
+    "console": "Nintendo Switch",
+    "year": 2021,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Metroid",
+    "title": "Metroid Prime Remastered",
+    "console": "Nintendo Switch",
+    "year": 2023,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Minecraft",
+    "title": "Minecraft",
+    "console": "Xbox 360",
+    "year": 2011,
+    "genre": "Sandbox",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Minecraft",
+    "title": "Minecraft: Story Mode",
+    "console": "PlayStation 4",
+    "year": 2015,
+    "genre": "Aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Minecraft",
+    "title": "Minecraft Dungeons",
+    "console": "Xbox One",
+    "year": 2020,
+    "genre": "Action-RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Minecraft",
+    "title": "Minecraft Legends",
+    "console": "Xbox Series X|S",
+    "year": 2023,
+    "genre": "Stratégie-action",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Monster Hunter",
+    "title": "Monster Hunter",
+    "console": "PlayStation 2",
+    "year": 2004,
+    "genre": "Action-RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Monster Hunter",
+    "title": "Monster Hunter Freedom Unite",
+    "console": "PSP",
+    "year": 2008,
+    "genre": "Action-RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Monster Hunter",
+    "title": "Monster Hunter 3 Ultimate",
+    "console": "Wii U",
+    "year": 2011,
+    "genre": "Action-RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Monster Hunter",
+    "title": "Monster Hunter 4 Ultimate",
+    "console": "Nintendo 3DS",
+    "year": 2014,
+    "genre": "Action-RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Monster Hunter",
+    "title": "Monster Hunter: World",
+    "console": "PlayStation 4",
+    "year": 2018,
+    "genre": "Action-RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Monster Hunter",
+    "title": "Monster Hunter Rise",
+    "console": "Nintendo Switch",
+    "year": 2021,
+    "genre": "Action-RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Monster Hunter",
+    "title": "Monster Hunter Wilds",
+    "console": "PlayStation 5",
+    "year": 2025,
+    "genre": "Action-RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Persona",
+    "title": "Revelations: Persona",
+    "console": "PlayStation",
+    "year": 1996,
+    "genre": "JRPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Persona",
+    "title": "Persona 2: Innocent Sin",
+    "console": "PlayStation",
+    "year": 1999,
+    "genre": "JRPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Persona",
+    "title": "Persona 3",
+    "console": "PlayStation 2",
+    "year": 2006,
+    "genre": "JRPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Persona",
+    "title": "Persona 4",
+    "console": "PlayStation 2",
+    "year": 2008,
+    "genre": "JRPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Persona",
+    "title": "Persona 5",
+    "console": "PlayStation 3",
+    "year": 2016,
+    "genre": "JRPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Persona",
+    "title": "Persona 5 Royal",
+    "console": "PlayStation 4",
+    "year": 2019,
+    "genre": "JRPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Persona",
+    "title": "Persona 3 Reload",
+    "console": "PlayStation 5",
+    "year": 2024,
+    "genre": "JRPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Pokémon",
+    "title": "Pokémon Bleu",
+    "console": "Game Boy",
+    "year": 1996,
+    "genre": "RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Pokémon",
+    "title": "Pokémon Rouge",
+    "console": "Game Boy",
+    "year": 1996,
+    "genre": "RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Pokémon",
+    "title": "Pokémon Vert",
+    "console": "Game Boy",
+    "year": 1996,
+    "genre": "RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Pokémon",
+    "title": "Pokémon Jaune",
+    "console": "Game Boy",
+    "year": 1998,
+    "genre": "RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Pokémon",
+    "title": "Pokémon Argent",
+    "console": "Game Boy Color",
+    "year": 1999,
+    "genre": "RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Pokémon",
+    "title": "Pokémon Or",
+    "console": "Game Boy Color",
+    "year": 1999,
+    "genre": "RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Pokémon",
+    "title": "Pokémon Pinball",
+    "console": "Game Boy Color",
+    "year": 1999,
+    "genre": "Spin-off",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Pokémon",
+    "title": "Pokémon Cristal",
+    "console": "Game Boy Color",
+    "year": 2000,
+    "genre": "RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Pokémon",
+    "title": "Pokémon Rubis",
+    "console": "Game Boy Advance",
+    "year": 2002,
+    "genre": "RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Pokémon",
+    "title": "Pokémon Saphir",
+    "console": "Game Boy Advance",
+    "year": 2002,
+    "genre": "RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Pokémon",
+    "title": "Pokémon Rouge Feu",
+    "console": "Game Boy Advance",
+    "year": 2004,
+    "genre": "Remake / RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Pokémon",
+    "title": "Pokémon Vert Feuille",
+    "console": "Game Boy Advance",
+    "year": 2004,
+    "genre": "Remake / RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Pokémon",
+    "title": "Pokémon Émeraude",
+    "console": "Game Boy Advance",
+    "year": 2004,
+    "genre": "RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Pokémon",
+    "title": "Pokémon Donjon Mystère : Équipe de secours rouge",
+    "console": "Game Boy Advance",
+    "year": 2005,
+    "genre": "Spin-off",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Pokémon",
+    "title": "Pokémon Diamant",
+    "console": "Nintendo DS",
+    "year": 2006,
+    "genre": "RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Pokémon",
+    "title": "Pokémon Perle",
+    "console": "Nintendo DS",
+    "year": 2006,
+    "genre": "RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Pokémon",
+    "title": "Pokémon Ranger",
+    "console": "Nintendo DS",
+    "year": 2006,
+    "genre": "Spin-off",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Pokémon",
+    "title": "Pokémon Donjon Mystère : Explorateurs du Temps",
+    "console": "Nintendo DS",
+    "year": 2007,
+    "genre": "Spin-off",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Pokémon",
+    "title": "Pokémon Platine",
+    "console": "Nintendo DS",
+    "year": 2008,
+    "genre": "RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Pokémon",
+    "title": "Pokémon Argent SoulSilver",
+    "console": "Nintendo DS",
+    "year": 2009,
+    "genre": "Remake / RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Pokémon",
+    "title": "Pokémon Or HeartGold",
+    "console": "Nintendo DS",
+    "year": 2009,
+    "genre": "Remake / RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Pokémon",
+    "title": "Pokémon Blanc",
+    "console": "Nintendo DS",
+    "year": 2010,
+    "genre": "RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Pokémon",
+    "title": "Pokémon Noir",
+    "console": "Nintendo DS",
+    "year": 2010,
+    "genre": "RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Pokémon",
+    "title": "Pokémon Blanc 2",
+    "console": "Nintendo DS",
+    "year": 2012,
+    "genre": "RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Pokémon",
+    "title": "Pokémon Noir 2",
+    "console": "Nintendo DS",
+    "year": 2012,
+    "genre": "RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Pokémon",
+    "title": "Pokémon X",
+    "console": "Nintendo 3DS",
+    "year": 2013,
+    "genre": "RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Pokémon",
+    "title": "Pokémon Y",
+    "console": "Nintendo 3DS",
+    "year": 2013,
+    "genre": "RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Pokémon",
+    "title": "Pokémon Rubis Oméga",
+    "console": "Nintendo 3DS",
+    "year": 2014,
+    "genre": "Remake / RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Pokémon",
+    "title": "Pokémon Saphir Alpha",
+    "console": "Nintendo 3DS",
+    "year": 2014,
+    "genre": "Remake / RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Pokémon",
+    "title": "Pokémon Lune",
+    "console": "Nintendo 3DS",
+    "year": 2016,
+    "genre": "RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Pokémon",
+    "title": "Pokémon Soleil",
+    "console": "Nintendo 3DS",
+    "year": 2016,
+    "genre": "RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Pokémon",
+    "title": "Pokémon Ultra-Lune",
+    "console": "Nintendo 3DS",
+    "year": 2017,
+    "genre": "RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Pokémon",
+    "title": "Pokémon Ultra-Soleil",
+    "console": "Nintendo 3DS",
+    "year": 2017,
+    "genre": "RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Pokémon",
+    "title": "Pokémon Let's Go Pikachu",
+    "console": "Nintendo Switch",
+    "year": 2018,
+    "genre": "RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Pokémon",
+    "title": "Pokémon Let's Go Évoli",
+    "console": "Nintendo Switch",
+    "year": 2018,
+    "genre": "RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Pokémon",
+    "title": "Pokémon Bouclier",
+    "console": "Nintendo Switch",
+    "year": 2019,
+    "genre": "RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Pokémon",
+    "title": "Pokémon Épée",
+    "console": "Nintendo Switch",
+    "year": 2019,
+    "genre": "RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Pokémon",
+    "title": "Pokémon Diamant Étincelant",
+    "console": "Nintendo Switch",
+    "year": 2021,
+    "genre": "Remake / RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Pokémon",
+    "title": "Pokémon Perle Scintillante",
+    "console": "Nintendo Switch",
+    "year": 2021,
+    "genre": "Remake / RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Pokémon",
+    "title": "Légendes Pokémon : Arceus",
+    "console": "Nintendo Switch",
+    "year": 2022,
+    "genre": "Action RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Pokémon",
+    "title": "Pokémon Violet",
+    "console": "Nintendo Switch",
+    "year": 2022,
+    "genre": "RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Pokémon",
+    "title": "Pokémon Écarlate",
+    "console": "Nintendo Switch",
+    "year": 2022,
+    "genre": "RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Red Dead",
+    "title": "Red Dead Revolver",
+    "console": "PlayStation 2",
+    "year": 2004,
+    "genre": "Action",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Red Dead",
+    "title": "Red Dead Redemption",
+    "console": "PlayStation 3",
+    "year": 2010,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Red Dead",
+    "title": "Red Dead Redemption 2",
+    "console": "PlayStation 4",
+    "year": 2018,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Resident Evil",
+    "title": "Resident Evil",
+    "console": "PlayStation",
+    "year": 1996,
+    "genre": "Survival horror",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Resident Evil",
+    "title": "Resident Evil 2",
+    "console": "PlayStation",
+    "year": 1998,
+    "genre": "Survival horror",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Resident Evil",
+    "title": "Resident Evil 3: Nemesis",
+    "console": "PlayStation",
+    "year": 1999,
+    "genre": "Survival horror",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Resident Evil",
+    "title": "Resident Evil Code: Veronica",
+    "console": "Dreamcast",
+    "year": 2000,
+    "genre": "Survival horror",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Resident Evil",
+    "title": "Resident Evil 0",
+    "console": "GameCube",
+    "year": 2002,
+    "genre": "Survival horror",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Resident Evil",
+    "title": "Resident Evil 4",
+    "console": "GameCube",
+    "year": 2005,
+    "genre": "Action-horreur",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Resident Evil",
+    "title": "Resident Evil 5",
+    "console": "PlayStation 3",
+    "year": 2009,
+    "genre": "Action-horreur",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Resident Evil",
+    "title": "Resident Evil 6",
+    "console": "PlayStation 3",
+    "year": 2012,
+    "genre": "Action-horreur",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Resident Evil",
+    "title": "Resident Evil 7: Biohazard",
+    "console": "PlayStation 4",
+    "year": 2017,
+    "genre": "Survival horror",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Resident Evil",
+    "title": "Resident Evil 2 (Remake)",
+    "console": "PlayStation 4",
+    "year": 2019,
+    "genre": "Survival horror",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Resident Evil",
+    "title": "Resident Evil 3 (Remake)",
+    "console": "PlayStation 4",
+    "year": 2020,
+    "genre": "Survival horror",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Resident Evil",
+    "title": "Resident Evil Village",
+    "console": "PlayStation 5",
+    "year": 2021,
+    "genre": "Survival horror",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Resident Evil",
+    "title": "Resident Evil 4 (Remake)",
+    "console": "PlayStation 5",
+    "year": 2023,
+    "genre": "Action-horreur",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Sonic",
+    "title": "Sonic the Hedgehog",
+    "console": "Mega Drive / Genesis",
+    "year": 1991,
+    "genre": "Plateforme",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Sonic",
+    "title": "Sonic the Hedgehog 2",
+    "console": "Mega Drive / Genesis",
+    "year": 1992,
+    "genre": "Plateforme",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Sonic",
+    "title": "Sonic CD",
+    "console": "Sega CD / Mega-CD",
+    "year": 1993,
+    "genre": "Plateforme",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Sonic",
+    "title": "Sonic 3 & Knuckles",
+    "console": "Mega Drive / Genesis",
+    "year": 1994,
+    "genre": "Plateforme",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Sonic",
+    "title": "Sonic Adventure",
+    "console": "Dreamcast",
+    "year": 1998,
+    "genre": "Plateforme",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Sonic",
+    "title": "Sonic Adventure 2",
+    "console": "Dreamcast",
+    "year": 2001,
+    "genre": "Plateforme",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Sonic",
+    "title": "Sonic Heroes",
+    "console": "PlayStation 2",
+    "year": 2003,
+    "genre": "Plateforme",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Sonic",
+    "title": "Shadow the Hedgehog",
+    "console": "PlayStation 2",
+    "year": 2005,
+    "genre": "Action",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Sonic",
+    "title": "Sonic Rush",
+    "console": "Nintendo DS",
+    "year": 2005,
+    "genre": "Plateforme",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Sonic",
+    "title": "Sonic Unleashed",
+    "console": "PlayStation 3",
+    "year": 2008,
+    "genre": "Plateforme",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Sonic",
+    "title": "Sonic Colors",
+    "console": "Wii",
+    "year": 2010,
+    "genre": "Plateforme",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Sonic",
+    "title": "Sonic Generations",
+    "console": "PlayStation 3",
+    "year": 2011,
+    "genre": "Plateforme",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Sonic",
+    "title": "Sonic Mania",
+    "console": "Nintendo Switch",
+    "year": 2017,
+    "genre": "Plateforme",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Sonic",
+    "title": "Sonic Frontiers",
+    "console": "Nintendo Switch",
+    "year": 2022,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Sonic",
+    "title": "Sonic Superstars",
+    "console": "Nintendo Switch",
+    "year": 2023,
+    "genre": "Plateforme",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Sonic",
+    "title": "Sonic X Shadow Generations",
+    "console": "PlayStation 5",
+    "year": 2024,
+    "genre": "Plateforme",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Spyro",
+    "title": "Spyro the Dragon",
+    "console": "PlayStation",
+    "year": 1998,
+    "genre": "Plateforme",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Spyro",
+    "title": "Spyro 2: Ripto’s Rage!",
+    "console": "PlayStation",
+    "year": 1999,
+    "genre": "Plateforme",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Spyro",
+    "title": "Spyro: Year of the Dragon",
+    "console": "PlayStation",
+    "year": 2000,
+    "genre": "Plateforme",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Spyro",
+    "title": "The Legend of Spyro: A New Beginning",
+    "console": "PlayStation 2",
+    "year": 2006,
+    "genre": "Action-plateforme",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Spyro",
+    "title": "Spyro Reignited Trilogy",
+    "console": "PlayStation 4",
+    "year": 2018,
+    "genre": "Plateforme",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Street Fighter",
+    "title": "Street Fighter",
+    "console": "Arcade (MAME)",
+    "year": 1987,
+    "genre": "Combat",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Street Fighter",
+    "title": "Street Fighter II",
+    "console": "Arcade (MAME)",
+    "year": 1991,
+    "genre": "Combat",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Street Fighter",
+    "title": "Super Street Fighter II Turbo",
+    "console": "Arcade (MAME)",
+    "year": 1994,
+    "genre": "Combat",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Street Fighter",
+    "title": "Street Fighter Alpha 3",
+    "console": "Arcade (MAME)",
+    "year": 1998,
+    "genre": "Combat",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Street Fighter",
+    "title": "Street Fighter III: 3rd Strike",
+    "console": "Arcade (MAME)",
+    "year": 1999,
+    "genre": "Combat",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Street Fighter",
+    "title": "Street Fighter IV",
+    "console": "PlayStation 3",
+    "year": 2008,
+    "genre": "Combat",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Street Fighter",
+    "title": "Street Fighter V",
+    "console": "PlayStation 4",
+    "year": 2016,
+    "genre": "Combat",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Street Fighter",
+    "title": "Street Fighter 6",
+    "console": "PlayStation 5",
+    "year": 2023,
+    "genre": "Combat",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Tekken",
+    "title": "Tekken",
+    "console": "PlayStation",
+    "year": 1994,
+    "genre": "Combat",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Tekken",
+    "title": "Tekken 2",
+    "console": "PlayStation",
+    "year": 1995,
+    "genre": "Combat",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Tekken",
+    "title": "Tekken 3",
+    "console": "PlayStation",
+    "year": 1997,
+    "genre": "Combat",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Tekken",
+    "title": "Tekken Tag Tournament",
+    "console": "PlayStation 2",
+    "year": 1999,
+    "genre": "Combat",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Tekken",
+    "title": "Tekken 4",
+    "console": "PlayStation 2",
+    "year": 2001,
+    "genre": "Combat",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Tekken",
+    "title": "Tekken 5",
+    "console": "PlayStation 2",
+    "year": 2004,
+    "genre": "Combat",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Tekken",
+    "title": "Tekken 6",
+    "console": "PlayStation 3",
+    "year": 2007,
+    "genre": "Combat",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Tekken",
+    "title": "Tekken Tag Tournament 2",
+    "console": "PlayStation 3",
+    "year": 2011,
+    "genre": "Combat",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Tekken",
+    "title": "Tekken 7",
+    "console": "PlayStation 4",
+    "year": 2015,
+    "genre": "Combat",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Tekken",
+    "title": "Tekken 8",
+    "console": "PlayStation 5",
+    "year": 2024,
+    "genre": "Combat",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Terraria",
+    "title": "Terraria",
+    "console": "PlayStation 3",
+    "year": 2013,
+    "genre": "Sandbox",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "The Elder Scrolls",
+    "title": "Arena",
+    "console": "DOS / PC rétro",
+    "year": 1994,
+    "genre": "RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "The Elder Scrolls",
+    "title": "Daggerfall",
+    "console": "DOS / PC rétro",
+    "year": 1996,
+    "genre": "RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "The Elder Scrolls",
+    "title": "Morrowind",
+    "console": "Xbox",
+    "year": 2002,
+    "genre": "RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "The Elder Scrolls",
+    "title": "Oblivion",
+    "console": "Xbox 360",
+    "year": 2006,
+    "genre": "RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "The Elder Scrolls",
+    "title": "Skyrim",
+    "console": "Xbox 360",
+    "year": 2011,
+    "genre": "RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "The Elder Scrolls",
+    "title": "The Elder Scrolls Online",
+    "console": "PlayStation 4",
+    "year": 2014,
+    "genre": "MMORPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "The Legend of Zelda",
+    "title": "The Legend of Zelda",
+    "console": "NES / Famicom",
+    "year": 1986,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "The Legend of Zelda",
+    "title": "Zelda II: The Adventure of Link",
+    "console": "NES / Famicom",
+    "year": 1987,
+    "genre": "Action-RPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "The Legend of Zelda",
+    "title": "A Link to the Past",
+    "console": "SNES / Super Famicom",
+    "year": 1991,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "The Legend of Zelda",
+    "title": "Link’s Awakening",
+    "console": "Game Boy",
+    "year": 1993,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "The Legend of Zelda",
+    "title": "Ocarina of Time",
+    "console": "Nintendo 64",
+    "year": 1998,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "The Legend of Zelda",
+    "title": "Majora’s Mask",
+    "console": "Nintendo 64",
+    "year": 2000,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "The Legend of Zelda",
+    "title": "Oracle of Ages",
+    "console": "Game Boy Color",
+    "year": 2001,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "The Legend of Zelda",
+    "title": "Oracle of Seasons",
+    "console": "Game Boy Color",
+    "year": 2001,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "The Legend of Zelda",
+    "title": "The Wind Waker",
+    "console": "GameCube",
+    "year": 2002,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "The Legend of Zelda",
+    "title": "Four Swords Adventures",
+    "console": "GameCube",
+    "year": 2004,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "The Legend of Zelda",
+    "title": "The Minish Cap",
+    "console": "Game Boy Advance",
+    "year": 2004,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "The Legend of Zelda",
+    "title": "Twilight Princess",
+    "console": "Wii",
+    "year": 2006,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "The Legend of Zelda",
+    "title": "Phantom Hourglass",
+    "console": "Nintendo DS",
+    "year": 2007,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "The Legend of Zelda",
+    "title": "Spirit Tracks",
+    "console": "Nintendo DS",
+    "year": 2009,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "The Legend of Zelda",
+    "title": "Skyward Sword",
+    "console": "Wii",
+    "year": 2011,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "The Legend of Zelda",
+    "title": "A Link Between Worlds",
+    "console": "Nintendo 3DS",
+    "year": 2013,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "The Legend of Zelda",
+    "title": "Tri Force Heroes",
+    "console": "Nintendo 3DS",
+    "year": 2015,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "The Legend of Zelda",
+    "title": "Breath of the Wild",
+    "console": "Nintendo Switch",
+    "year": 2017,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "The Legend of Zelda",
+    "title": "Tears of the Kingdom",
+    "console": "Nintendo Switch",
+    "year": 2023,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "The Sims",
+    "title": "The Sims",
+    "console": "PC / Windows",
+    "year": 2000,
+    "genre": "Simulation",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "The Sims",
+    "title": "The Sims 2",
+    "console": "PC / Windows",
+    "year": 2004,
+    "genre": "Simulation",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "The Sims",
+    "title": "The Sims 3",
+    "console": "PC / Windows",
+    "year": 2009,
+    "genre": "Simulation",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "The Sims",
+    "title": "The Sims 4",
+    "console": "PC / Windows",
+    "year": 2014,
+    "genre": "Simulation",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Tomb Raider",
+    "title": "Tomb Raider",
+    "console": "PlayStation",
+    "year": 1996,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Tomb Raider",
+    "title": "Tomb Raider II",
+    "console": "PlayStation",
+    "year": 1997,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Tomb Raider",
+    "title": "Tomb Raider III",
+    "console": "PlayStation",
+    "year": 1998,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Tomb Raider",
+    "title": "The Last Revelation",
+    "console": "PlayStation",
+    "year": 1999,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Tomb Raider",
+    "title": "Angel of Darkness",
+    "console": "PlayStation 2",
+    "year": 2003,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Tomb Raider",
+    "title": "Tomb Raider Legend",
+    "console": "PlayStation 2",
+    "year": 2006,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Tomb Raider",
+    "title": "Tomb Raider (2013)",
+    "console": "PlayStation 3",
+    "year": 2013,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Tomb Raider",
+    "title": "Rise of the Tomb Raider",
+    "console": "PlayStation 4",
+    "year": 2015,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Tomb Raider",
+    "title": "Shadow of the Tomb Raider",
+    "console": "PlayStation 4",
+    "year": 2018,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Uncharted",
+    "title": "Uncharted: Drake’s Fortune",
+    "console": "PlayStation 3",
+    "year": 2007,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Uncharted",
+    "title": "Uncharted 2: Among Thieves",
+    "console": "PlayStation 3",
+    "year": 2009,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Uncharted",
+    "title": "Uncharted 3: Drake’s Deception",
+    "console": "PlayStation 3",
+    "year": 2011,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Uncharted",
+    "title": "Uncharted 4: A Thief’s End",
+    "console": "PlayStation 4",
+    "year": 2016,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Uncharted",
+    "title": "Uncharted: The Lost Legacy",
+    "console": "PlayStation 4",
+    "year": 2017,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Warcraft",
+    "title": "Warcraft: Orcs & Humans",
+    "console": "PC / Windows",
+    "year": 1994,
+    "genre": "Stratégie",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Warcraft",
+    "title": "Warcraft II: Tides of Darkness",
+    "console": "PC / Windows",
+    "year": 1995,
+    "genre": "Stratégie",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Warcraft",
+    "title": "Warcraft III: Reign of Chaos",
+    "console": "PC / Windows",
+    "year": 2002,
+    "genre": "Stratégie",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Warcraft",
+    "title": "World of Warcraft",
+    "console": "PC / Windows",
+    "year": 2004,
+    "genre": "MMORPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Yakuza / Like a Dragon",
+    "title": "Yakuza",
+    "console": "PlayStation 2",
+    "year": 2005,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Yakuza / Like a Dragon",
+    "title": "Yakuza 2",
+    "console": "PlayStation 2",
+    "year": 2006,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Yakuza / Like a Dragon",
+    "title": "Yakuza 3",
+    "console": "PlayStation 3",
+    "year": 2009,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Yakuza / Like a Dragon",
+    "title": "Yakuza 4",
+    "console": "PlayStation 3",
+    "year": 2010,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Yakuza / Like a Dragon",
+    "title": "Yakuza 5",
+    "console": "PlayStation 3",
+    "year": 2012,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Yakuza / Like a Dragon",
+    "title": "Yakuza 0",
+    "console": "PlayStation 4",
+    "year": 2015,
+    "genre": "Action-aventure",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Yakuza / Like a Dragon",
+    "title": "Yakuza: Like a Dragon",
+    "console": "PlayStation 4",
+    "year": 2020,
+    "genre": "JRPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  },
+  {
+    "franchise": "Yakuza / Like a Dragon",
+    "title": "Like a Dragon: Infinite Wealth",
+    "console": "PlayStation 5",
+    "year": 2024,
+    "genre": "JRPG",
+    "availability": "Fiche catalogue — fichier de jeu non inclus"
+  }
+]
